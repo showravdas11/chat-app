@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338252546426",
+    "project_id": "taskchat-3a42a",
+    "storage_bucket": "taskchat-3a42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338252546426:android:9a1cf9cb658e7a229cd6c3",
+        "android_client_info": {
+          "package_name": "com.example.my_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_HXF9ipDYZT7SZ8Zj5fc3ZEIktzLEaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
